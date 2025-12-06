@@ -1,6 +1,6 @@
 # Hi, I'm [YOUR NAME]! 👋
 
-![Profile Photo]([https://via.placeholder.com/120 "Your Profile Photo](https://avatars.githubusercontent.com/u/132066491?v=4)") <!-- Replace the link with your real photo URL -->
+![Profile Photo]([https://i.pinimg.com/736x/6e/b4/55/6eb4558380d621e716754794410576e1.jpg])
 
 ## About Me
 
