@@ -1,6 +1,6 @@
 #TEMPLATE
 
-<html lang="ru">
+<html lang="eng">
 
 
 <head>
@@ -12,10 +12,10 @@
 <meta name="viewport" content="width=device-width,initial-scale=1" />
 
 
-<title>Портфолио — Твоё Имя</title>
+<title>Porfolio — Oleksandr</title>
 
 
-<meta name="description" content="Красивое и стильное портфолио — HTML + CSS в одном файле." />
+<meta name="description" content="Portfolio in single file HTML + CSS." />
 
 
 <style>
@@ -1011,16 +1011,16 @@
       <div class="brand">
 
 
-        <div class="logo" aria-hidden="true">TM</div>
+        <div class="logo" aria-hidden="true">OO</div>
 
 
         <div>
 
 
-          <div style="font-weight:700">Твоё Имя</div>
+          <div style="font-weight:700">Oleksandr</div>
 
 
-          <div class="micro">Frontend Developer • UI / UX • Creator</div>
+          <div class="micro">C# Kunior Developer</div>
 
 
         </div>
@@ -1032,16 +1032,16 @@
 
 
 
-      <nav aria-label="Навигация">
+      <nav aria-label="Navigation">
 
 
-        <button class="nav-btn" onclick="scrollToSection('projects')">Проекты</button>
+        <button class="nav-btn" onclick="scrollToSection('projects')">Projects</button>
 
 
-        <button class="nav-btn" onclick="scrollToSection('about')">Обо мне</button>
+        <button class="nav-btn" onclick="scrollToSection('about')">About Me</button>
 
 
-        <button class="nav-btn" onclick="scrollToSection('contacts')">Контакты</button>
+        <button class="nav-btn" onclick="scrollToSection('contacts')">Contacts</button>
 
 
       </nav>
@@ -1071,10 +1071,10 @@
           <div>
 
 
-            <h1 id="profile-name">Твоё Имя</h1>
+            <h1 id="profile-name">Oleksandr</h1>
 
 
-            <div class="role">Frontend Developer / Designer</div>
+            <div class="role">Software Developer</div>
 
 
             <div class="micro" style="margin-top:6px">based in: Dublin • available for remote</div>
@@ -1092,7 +1092,7 @@
         <p class="bio">
 
 
-          Я создаю интерфейсы, которые не только выглядят круто, но и работают плавно. Люблю анимации, чистый код и мелкие детали, которые делают UX трушным.
+          I am making desktop apps using wpf, they looks coll and with nice design. I like details in app and clean code. I'm now learning Asp.net and improve my skills.
 
 
         </p>
@@ -1104,22 +1104,22 @@
         <div class="skill-list" aria-hidden="false">
 
 
-          <div class="skill">HTML</div>
+          <div class="skill">C#</div>
 
 
-          <div class="skill">CSS</div>
+          <div class="skill">SQL</div>
 
 
-          <div class="skill">JavaScript</div>
+          <div class="skill">XAML</div>
 
 
-          <div class="skill">React</div>
+          <div class="skill">ASP.net</div>
 
 
-          <div class="skill">Responsive</div>
+          <div class="skill">Design</div>
 
 
-          <div class="skill">Figma</div>
+          <div class="skill">Vusial Studio</div>
 
 
         </div>
@@ -1131,10 +1131,10 @@
         <div class="contact">
 
 
-          <a class="cta" href="mailto:you@example.com">Написать</a>
+          <a class="cta" href="mailto:you@example.com">Write</a>
 
 
-          <a class="ghost" href="#" onclick="showResume()">Резюме</a>
+          <a class="ghost" href="#" onclick="showResume()">CV</a>
 
 
         </div>
@@ -1146,19 +1146,19 @@
         <div style="margin-top:14px;">
 
 
-          <div class="micro">Соцсети</div>
+          <div class="micro">Social Media</div>
 
 
           <div style="display:flex;gap:8px;margin-top:8px">
 
 
-            <a class="badge" href="#" onclick="openLink('#')">Behance</a>
+            <a class="badge" href="#" onclick="openLink('#')">Steam</a>
 
 
             <a class="badge" href="#" onclick="openLink('#')">GitHub</a>
 
 
-            <a class="badge" href="#" onclick="openLink('#')">Dribbble</a>
+            <a class="badge" href="#" onclick="openLink('#')">iesofsef</a>
 
 
           </div>
@@ -1188,16 +1188,16 @@
             <div>
 
 
-              <div id="projects-title" style="font-weight:700">Выбранные проекты</div>
+              <div id="projects-title" style="font-weight:700">Selected projects</div>
 
 
-              <div class="micro">Небольшой срез моих работ</div>
+              <div class="micro">Some of my projects</div>
 
 
             </div>
 
 
-            <div class="micro">3 / 12</div>
+            <div class="micro">3 / 5</div>
 
 
           </div>
@@ -1263,7 +1263,7 @@
                 <div class="stats">
 
 
-                  <div class="micro">HTML/CSS</div>
+                  <div class="micro">Wpf/XAML</div>
 
 
                   <div class="micro">Animation</div>
@@ -1335,16 +1335,16 @@
             <div>
 
 
-              <div style="font-weight:700">Обо мне</div>
+              <div style="font-weight:700">About Me</div>
 
 
-              <div class="micro">Коротко и по делу</div>
+              <div class="micro">Short and Simple</div>
 
 
             </div>
 
 
-            <div class="micro">5 лет опыта</div>
+            <div class="micro">1 year experience - still learning</div>
 
 
           </div>
@@ -1359,28 +1359,28 @@
             <div>
 
 
-              <p style="margin-top:0;color:#dce9ff">Я строю интерфейсы, оптимизирую взаимодействие и делаю так, чтобы продукт выглядел целостно. Работаю с командами и одиночками — всегда открыт к новым задачам.</p>
+              <p style="margin-top:0;color:#dce9ff">I build interfaces, optimize interactions, and ensure the product looks cohesive. I work with teams and individuals—I'm always open to new challenges.</p>
 
 
 
 
 
-              <h4 style="margin-bottom:8px">Инструменты</h4>
+              <h4 style="margin-bottom:8px">Instruments</h4>
 
 
               <div class="skills-chip">
 
 
-                <div class="skill">VS Code</div>
-
-
-                <div class="skill">Figma</div>
-
-
-                <div class="skill">Storybook</div>
+                <div class="skill">Visual Studio</div>
 
 
                 <div class="skill">Git</div>
+
+
+                <div class="skill">Dbeaver</div>
+
+
+                <div class="skill">MAMP</div>
 
 
               </div>
@@ -1389,19 +1389,19 @@
 
 
 
-              <h4 style="margin-top:12px;margin-bottom:8px">Что мне нравится</h4>
+              <h4 style="margin-top:12px;margin-bottom:8px">What I like</h4>
 
 
               <ul style="margin:0;padding-left:18px;color:var(--muted);font-size:14px">
 
 
-                <li>Чистая архитектура CSS</li>
+                <li>Clean architecture CSS</li>
 
 
-                <li>Микровзаимодействия</li>
+                <li>Design</li>
 
 
-                <li>Оптимизация производительности</li>
+                <li>Performance optimization</li>
 
 
               </ul>
@@ -1416,13 +1416,13 @@
             <aside class="progress">
 
 
-              <div class="micro">Навыки</div>
+              <div class="micro">Skills</div>
 
 
               <div style="margin-top:10px">
 
 
-                <div class="micro">HTML / CSS</div>
+                <div class="micro">WPF/XAML</div>
 
 
                 <div class="bar" data-value="95"><i></i></div>
@@ -1437,7 +1437,7 @@
 
 
 
-                <div class="micro">JavaScript</div>
+                <div class="micro">C#</div>
 
 
                 <div class="bar" data-value="88"><i></i></div>
@@ -1452,7 +1452,7 @@
 
 
 
-                <div class="micro">React</div>
+                <div class="micro">Asp.Net</div>
 
 
                 <div class="bar" data-value="84"><i></i></div>
@@ -1467,7 +1467,7 @@
 
 
 
-                <div class="micro">Design</div>
+                <div class="micro">MySql</div>
 
 
                 <div class="bar" data-value="78"><i></i></div>
@@ -1497,10 +1497,10 @@
             <div>
 
 
-              <div style="font-weight:700">Контакты</div>
+              <div style="font-weight:700">Contacts</div>
 
 
-              <div class="micro">Доступен для фриланса и работы</div>
+              <div class="micro">Available for freelancing and further education</div>
 
 
             </div>
@@ -1518,10 +1518,10 @@
           <div style="display:flex;gap:12px;flex-wrap:wrap;align-items:center">
 
 
-            <a class="cta" href="mailto:you@example.com">you@example.com</a>
+            <a class="cta" href="mailto:you@example.com">aalexandr390@yahoo.com</a>
 
 
-            <a class="ghost" href="tel:+441234567890">+44 1234 567 890</a>
+            <a class="ghost" href="tel:+441234567890">+77 7777 777 777</a>
 
 
           </div>
@@ -1533,22 +1533,22 @@
           <form style="margin-top:14px;display:grid;gap:8px" onsubmit="contactForm(event)">
 
 
-            <input name="name" placeholder="Имя" style="padding:10px;border-radius:10px;border:1px solid rgba(255,255,255,0.04);background:transparent;color:inherit" required>
+            <input name="name" placeholder="Name" style="padding:10px;border-radius:10px;border:1px solid rgba(255,255,255,0.04);background:transparent;color:inherit" required>
 
 
             <input name="email" type="email" placeholder="Email" style="padding:10px;border-radius:10px;border:1px solid rgba(255,255,255,0.04);background:transparent;color:inherit" required>
 
 
-            <textarea name="message" rows="4" placeholder="Сообщение" style="padding:10px;border-radius:10px;border:1px solid rgba(255,255,255,0.04);background:transparent;color:inherit" required></textarea>
+            <textarea name="message" rows="4" placeholder="Message" style="padding:10px;border-radius:10px;border:1px solid rgba(255,255,255,0.04);background:transparent;color:inherit" required></textarea>
 
 
             <div style="display:flex;gap:8px">
 
 
-              <button class="cta" type="submit">Отправить</button>
+              <button class="cta" type="submit">Send</button>
 
 
-              <button type="button" class="ghost" onclick="clearForm(this)">Очистить</button>
+              <button type="button" class="ghost" onclick="clearForm(this)">Clear</button>
 
 
             </div>
@@ -1572,7 +1572,7 @@
         <footer>
 
 
-          © <span id="year"></span> Твоё Имя — Сделано с ❤️ и CSS магией
+          © <span id="year"></span> Oleksandr — Porfolio - GitPages
 
 
         </footer>
@@ -1587,7 +1587,7 @@
 
 
 
-    <button class="fab" title="Написать" onclick="openLink('mailto:you@example.com')">
+    <button class="fab" title="Написать" onclick="openLink('mailto:aalexandr390@yahoo.com')">
 
 
       <svg width="20" height="20" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M2 12L22 3L13 22L9 13L2 12Z" fill="white" /></svg>
@@ -1740,7 +1740,7 @@
     msg.style.display = 'block';
 
 
-    msg.textContent = 'Сообщение отправлено (демо). Замени обработчик на свой бекенд.';
+    msg.textContent = 'Message sended (демо). Замени обработчик на свой бекенд.';
 
 
     form.reset();
