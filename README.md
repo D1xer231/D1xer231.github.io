@@ -1205,7 +1205,7 @@
           <div class="projects-grid">
 
 
-            <article class="project" onclick="openLink('#')" role="link" aria-label="Project One">
+            <article class="project" onclick="openLink('https://github.com/D1xer231/Elden-Ring-Builder')" role="link" aria-label="Project One">
 
 
               <div class="thumb" style="background-image:url('data:image/svg+xml;utf8,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%22240%22 height=%22160%22></svg>')"></div>
@@ -1241,7 +1241,7 @@
 
 
 
-            <article class="project" onclick="openLinkhttps://github.com/D1xer231/Elden-Ring-Builder')">
+            <article class="project" onclick="openLink('https://github.com/D1xer231/ASP.NET-shop')">
 
 
               <div class="thumb" style="background-image:linear-gradient(120deg, rgba(7,12,20,0.1), rgba(7,12,20,0.2));"></div>
