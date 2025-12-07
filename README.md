@@ -1277,7 +1277,7 @@
 
 
 
-            <article class="project" onclick="openLink('https://github.com/D1xer231/ASP.NET-shop')">
+            <article class="project" onclick="openLink('https://github.com/D1xer231/Convertor')">
 
 
               <div class="thumb" style="background-image:linear-gradient(90deg, rgba(124,58,237,0.12), rgba(6,182,212,0.08));"></div>
