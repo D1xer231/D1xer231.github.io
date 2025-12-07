@@ -1,4 +1,3 @@
-#TEMPLATE
 
 <html lang="eng">
 
@@ -1011,7 +1010,7 @@
       <div class="brand">
 
 
-        <div class="logo" aria-hidden="true">OO</div>
+        <div class="logo" aria-hidden="true">C#</div>
 
 
         <div>
@@ -1020,7 +1019,7 @@
           <div style="font-weight:700">Oleksandr</div>
 
 
-          <div class="micro">C# Kunior Developer</div>
+          <div class="micro">C# Junior Developer</div>
 
 
         </div>
@@ -1065,7 +1064,7 @@
         <div class="profile">
 
 
-          <div class="avatar">TI</div>
+          <div class="avatar">O.O</div>
 
 
           <div>
@@ -1075,9 +1074,6 @@
 
 
             <div class="role">Software Developer</div>
-
-
-            <div class="micro" style="margin-top:6px">based in: Dublin • available for remote</div>
 
 
           </div>
@@ -1131,7 +1127,7 @@
         <div class="contact">
 
 
-          <a class="cta" href="mailto:you@example.com">Write</a>
+          <a class="cta" href="mailto:aalexandr390@yahoo.com">Write</a>
 
 
           <a class="ghost" href="#" onclick="showResume()">CV</a>
@@ -1152,10 +1148,10 @@
           <div style="display:flex;gap:8px;margin-top:8px">
 
 
-            <a class="badge" href="#" onclick="openLink('#')">Steam</a>
+            <a class="badge" href="#" onclick="openLink('https://steamcommunity.com/profiles/76561199220453620/')">Steam</a>
 
 
-            <a class="badge" href="#" onclick="openLink('#')">GitHub</a>
+            <a class="badge" href="#" onclick="openLink('https://github.com/D1xer231')">GitHub</a>
 
 
             <a class="badge" href="#" onclick="openLink('#')">iesofsef</a>
@@ -1218,46 +1214,10 @@
               <div class="overlay">
 
 
-                <div class="tag">Web App</div>
+                <div class="tag">Wpf App</div>
 
 
-                <h3 class="title">Design System Dashboard</h3>
-
-
-                <div class="stats">
-
-
-                  <div class="micro">React</div>
-
-
-                  <div class="micro">UI Kit</div>
-
-
-                </div>
-
-
-              </div>
-
-
-            </article>
-
-
-
-
-
-            <article class="project" onclick="openLink('#')">
-
-
-              <div class="thumb" style="background-image:linear-gradient(120deg, rgba(7,12,20,0.1), rgba(7,12,20,0.2));"></div>
-
-
-              <div class="overlay">
-
-
-                <div class="tag">Landing</div>
-
-
-                <h3 class="title">Coffee Shop Landing</h3>
+                <h3 class="title">Elden Ring Builder</h3>
 
 
                 <div class="stats">
@@ -1266,7 +1226,7 @@
                   <div class="micro">Wpf/XAML</div>
 
 
-                  <div class="micro">Animation</div>
+                  <div class="micro">C#</div>
 
 
                 </div>
@@ -1281,7 +1241,43 @@
 
 
 
-            <article class="project" onclick="openLink('#')">
+            <article class="project" onclick="openLinkhttps://github.com/D1xer231/Elden-Ring-Builder')">
+
+
+              <div class="thumb" style="background-image:linear-gradient(120deg, rgba(7,12,20,0.1), rgba(7,12,20,0.2));"></div>
+
+
+              <div class="overlay">
+
+
+                <div class="tag">Practice ASP.Net</div>
+
+
+                <h3 class="title">Online Shop</h3>
+
+
+                <div class="stats">
+
+
+                  <div class="micro">ASP.net</div>
+
+
+                  <div class="micro">Backend • C#</div>
+
+
+                </div>
+
+
+              </div>
+
+
+            </article>
+
+
+
+
+
+            <article class="project" onclick="openLink('https://github.com/D1xer231/ASP.NET-shop')">
 
 
               <div class="thumb" style="background-image:linear-gradient(90deg, rgba(124,58,237,0.12), rgba(6,182,212,0.08));"></div>
@@ -1290,19 +1286,19 @@
               <div class="overlay">
 
 
-                <div class="tag">Mobile</div>
+                <div class="tag">Wpf App</div>
 
 
-                <h3 class="title">Finance Tracker App</h3>
+                <h3 class="title">File Convertor</h3>
 
 
                 <div class="stats">
 
 
-                  <div class="micro">React Native</div>
+                  <div class="micro">Wpf/XAML</div>
 
 
-                  <div class="micro">UX</div>
+                  <div class="micro">C#</div>
 
 
                 </div>
@@ -1452,7 +1448,7 @@
 
 
 
-                <div class="micro">Asp.Net</div>
+                <div class="micro">MySql.Net</div>
 
 
                 <div class="bar" data-value="84"><i></i></div>
@@ -1467,7 +1463,7 @@
 
 
 
-                <div class="micro">MySql</div>
+                <div class="micro">ASP.net</div>
 
 
                 <div class="bar" data-value="78"><i></i></div>
