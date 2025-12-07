@@ -1448,7 +1448,7 @@
 
 
 
-                <div class="micro">MySql.Net</div>
+                <div class="micro">MySql</div>
 
 
                 <div class="bar" data-value="84"><i></i></div>
